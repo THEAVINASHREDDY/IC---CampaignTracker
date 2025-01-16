@@ -35,7 +35,7 @@ campaigns = [
     },
      {
         "name": "Quickbooks",
-        "weeklyTarget": 7,
+        "weeklyTarget": 9,
         "cumulativeTarget": 100,
         "Till 10th Jan": 44,
         "weeks": [
@@ -45,6 +45,23 @@ campaigns = [
             {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 0},
             {"week": 5, "focus": "Analysis & refinement", "target": 9, "actual": 0},
             {"week": 6, "focus": "Final push", "target": 9, "actual": 0},
+        ]
+    },
+    {
+        "name": "TietoEvry",
+        "weeklyTarget": 11,
+        "cumulativeTarget": 100,
+        "Till 10th Jan": 8,
+        "weeks": [
+            {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 8},
+            {"week": 2, "focus": "New Promotional Copies", "target": 11, "actual": 2},
+            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 0},
+            {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 0},
+            {"week": 5, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 0},
+            {"week": 6, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 0},
+            {"week": 7, "focus": "3 emails/week + LinkedIn", "target": 11, "actual": 0},
+            {"week": 8, "focus": "Analysis & refinement", "target": 11, "actual": 0},            
+            {"week": 9, "focus": "Final push", "target": 12, "actual": 0},            
         ]
     },
 ]
