@@ -21,15 +21,16 @@ campaigns = [
     },
     {
         "name": "HSBC",
-        "weeklyTarget": 6,
-        "cumulativeTarget": 36,
+        "weeklyTarget": 7,
+        "cumulativeTarget": 45,
+        "Till 10th Jan": 18
         "weeks": [
-            {"week": 1, "focus": "Till 10th Jan", "target": 0, "actual": 0},
-            {"week": 2, "focus": "LinkedIn outreach (13th - 17th Jan)", "target": 6, "actual": 0},
-            {"week": 3, "focus": "2-3 emails/week (20th - 24th Jan)", "target": 6, "actual": 0},
-            {"week": 4, "focus": "2-3 emails/week (27th - 31st Jan)", "target": 6, "actual": 0},
-            {"week": 5, "focus": "Analysis & refinement (3rd - 7th Feb)", "target": 6, "actual": 0},
-            {"week": 6, "focus": "Final push (10th - 14th Feb)", "target": 6, "actual": 0},
+            {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 18},
+            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 7},
+            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 0},
+            {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 0},
+            {"week": 5, "focus": "Analysis & refinement", "target": 7, "actual": 0},
+            {"week": 6, "focus": "Final push", "target": 7, "actual": 0},
         ]
     },
 ]
