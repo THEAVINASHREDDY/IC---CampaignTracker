@@ -23,7 +23,7 @@ campaigns = [
         "name": "HSBC",
         "weeklyTarget": 7,
         "cumulativeTarget": 45,
-        "Till 10th Jan": 18
+        "Till 10th Jan": 18,
         "weeks": [
             {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 18},
             {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 7},
