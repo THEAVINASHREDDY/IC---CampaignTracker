@@ -33,6 +33,20 @@ campaigns = [
             {"week": 6, "focus": "Final push", "target": 7, "actual": 0},
         ]
     },
+     {
+        "name": "Quickbooks",
+        "weeklyTarget": 7,
+        "cumulativeTarget": 100,
+        "Till 10th Jan": 44,
+        "weeks": [
+            {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 55, "actual": 44},
+            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 7},
+            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 0},
+            {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 0},
+            {"week": 5, "focus": "Analysis & refinement", "target": 9, "actual": 0},
+            {"week": 6, "focus": "Final push", "target": 9, "actual": 0},
+        ]
+    },
 ]
 
 # Streamlit app
