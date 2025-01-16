@@ -9,9 +9,9 @@ campaigns = [
         "name": "Access Group",
         "weeklyTarget": 10,
         "cumulativeTarget": 100,
-        "Till 15th Jan": 64,
+        "Till 10th Jan": 60,
         "weeks": [
-            {"week": 1, "focus": "Till 15th Jan", "target": 55, "actual": 64},
+            {"week": 1, "focus": "Till 10th Jan", "target": 55, "actual": 60},
             {"week": 2, "focus": "3 emails/week + LinkedIn (13th - 17th Jan)", "target": 9, "actual": 4},
             {"week": 3, "focus": "3 emails/week + LinkedIn (20th - 24th Jan)", "target": 9, "actual": 0},
             {"week": 4, "focus": "3 emails/week + LinkedIn (27th - 31st Jan)", "target": 9, "actual": 0},
