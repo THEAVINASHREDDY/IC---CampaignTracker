@@ -9,7 +9,6 @@ campaigns = [
         "name": "Access Group",
         "weeklyTarget": 10,
         "cumulativeTarget": 100,
-        "Till 15th Jan": 64,
         "weeks": [
             {"week": 1, "focus": "Till 15th Jan", "target": 0, "actual": 64},
             {"week": 2, "focus": "3 emails/week + LinkedIn (13th - 17th Jan)", "target": 10, "actual": 4},
@@ -90,8 +89,9 @@ df = pd.DataFrame(data)
 
 # Display summary
 actual, target = calculate_progress(selected_campaign["weeks"])
+week = campaigns[0]["weeks"][0]["focus"]
 st.markdown(f"### {selected_campaign_name}")
-st.write(f"Weekly Target: {selected_campaign['weeklyTarget']} | Progress: {actual}/{target}")
+st.write(f"Weekly Target: {selected_campaign['weeklyTarget']} |Till 15th Jan:{actual}|Progress: {actual}/{target}")
 
 # Line chart
 fig = go.Figure()
