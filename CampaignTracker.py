@@ -91,7 +91,7 @@ df = pd.DataFrame(data)
 actual, target = calculate_progress(selected_campaign["weeks"])
 week = campaigns[0]["weeks"][0]["focus"]
 st.markdown(f"### {selected_campaign_name}")
-st.write(f"Weekly Target: {selected_campaign['weeklyTarget']} |Till 15th Jan:{actual}|Progress: {actual}/{target}")
+st.write(f"Weekly Target: {selected_campaign['weeklyTarget']} |{week}:{actual}|Progress: {actual}/{target}")
 
 # Line chart
 fig = go.Figure()
