@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 campaigns = [
     {
         "name": "Access Group",
-        "weeklyTarget": 10,
+        "weeklyTarget": 9,
         "cumulativeTarget": 100,
         "Till 10th Jan": 60,
         "weeks": [
