@@ -36,7 +36,7 @@ campaigns = [
         ]
     },
     {
-        "name": "Kunj",
+        "name": "Tieto",
         "weeklyTarget": 6,
         "cumulativeTarget": 36,
         "weeks": [
