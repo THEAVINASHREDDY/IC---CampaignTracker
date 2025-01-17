@@ -11,7 +11,7 @@ campaigns = [
         "cumulativeTarget": 100,
         "Till 10th Jan": 60,
         "weeks": [
-            {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 55, "actual": 60},
+            {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 60, "actual": 60},
             {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 10},
             {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 0},
             {"week": 4, "focus": "Analysis & refinement", "target": 10, "actual": 0},
