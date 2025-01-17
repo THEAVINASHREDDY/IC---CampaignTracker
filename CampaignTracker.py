@@ -20,14 +20,14 @@ campaigns = [
     },
     {
         "name": "HSBC",
-        "weeklyTarget": 6,
+        "weeklyTarget": 7,
         "cumulativeTarget": 45,
         "Till 10th Jan": 18,
         "weeks": [
             {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 18, "actual": 18},
-            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 15, "actual": 15},
-            {"week": 3, "focus": "Analysis & refinement", "target": 6, "actual": 0},
-            {"week": 4, "focus": "Final push", "target": 6, "actual": 0},
+            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 13, "actual": 13},
+            {"week": 3, "focus": "Analysis & refinement", "target": 7, "actual": 0},
+            {"week": 4, "focus": "Final push", "target": 7, "actual": 0},
         ]
     },
      {
