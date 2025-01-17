@@ -7,30 +7,27 @@ from datetime import datetime, timedelta
 campaigns = [
     {
         "name": "Access Group",
-        "weeklyTarget": 9,
+        "weeklyTarget": 10,
         "cumulativeTarget": 100,
         "Till 10th Jan": 60,
         "weeks": [
             {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 55, "actual": 60},
-            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 4},
-            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 0},
-            {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 0},
-            {"week": 5, "focus": "Analysis & refinement", "target": 9, "actual": 0},
-            {"week": 6, "focus": "Final push", "target": 9, "actual": 0},
+            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 10},
+            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 0},
+            {"week": 4, "focus": "Analysis & refinement", "target": 10, "actual": 0},
+            {"week": 5, "focus": "Final push", "target": 10, "actual": 0},
         ]
     },
     {
         "name": "HSBC",
-        "weeklyTarget": 7,
+        "weeklyTarget": 9,
         "cumulativeTarget": 45,
         "Till 10th Jan": 18,
         "weeks": [
             {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 10, "actual": 18},
-            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 7},
-            {"week": 3, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 0},
-            {"week": 4, "focus": "3 emails/week + LinkedIn", "target": 7, "actual": 0},
-            {"week": 5, "focus": "Analysis & refinement", "target": 7, "actual": 0},
-            {"week": 6, "focus": "Final push", "target": 7, "actual": 0},
+            {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 9, "actual": 13},
+            {"week": 3, "focus": "Analysis & refinement", "target": 9, "actual": 0},
+            {"week": 4, "focus": "Final push", "target": 9, "actual": 0},
         ]
     },
      {
