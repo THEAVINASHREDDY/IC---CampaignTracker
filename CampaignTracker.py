@@ -26,7 +26,7 @@ campaigns = [
         "weeks": [
             {"week": 1, "focus": "3 emails/week + LinkedIn", "target": 18, "actual": 18},
             {"week": 2, "focus": "3 emails/week + LinkedIn", "target": 13, "actual": 13},
-            {"week": 3, "focus": "Analysis & refinement", "target": 7, "actual": 0},
+            {"week": 3, "focus": "Analysis & refinement", "target": 7, "actual": 7},
             {"week": 4, "focus": "Final push", "target": 7, "actual": 0},
         ]
     },
